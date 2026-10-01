@@ -74,18 +74,39 @@ export const PORTFOLIO_DATA: PortfolioData = {
 
   experiences: [
     {
+      role: 'Técnico de Desenvolvimento de Sistemas',
+      company: 'SENAI',
+      period: '2023 — 2026',
+      description:
+      'Formado com foco em lógica de programação, desenvolvimento web, banco de dados, versionamento e construção de aplicações.'
+    },
+    {
+      role: 'Estagiário',
+      company: 'Bum Digital - Soluções Tecnológicas',
+      period: '2024',
+      description:
+      'Abertura de ordem de serviço, atendimento telefônico, atendimento ao cliente, instalação de sistema operacional Windows.'
+    },
+    {
+      role: 'Desenvolvedor Front-End',
+      company: 'SENAI CIMATEC',
+      period: '2026',
+      description:
+      'Desenvolvimento de projetos e aplicações utilizando HTML, CSS, TypeScript e Angular.'
+    },
+    {
+      role: 'Aluno de Programação Full-Stack IA FLEX',
+      company: 'INFINITY SCHOOL',
+      period: '2026 - Atual',
+      description:
+      'Programação em Python, HTML E CSS e JavaScript.'
+    },
+    {
       role: 'Desenvolvedor Front-end',
       company: 'Projeto pessoal / Freelance',
       period: '2025 — Atual',
       description:
         'Desenvolvimento de interfaces responsivas utilizando Angular, TypeScript, HTML e CSS, com foco em componentização, reutilização de código e experiência do usuário.'
-    },
-    {
-      role: 'Estudante de Desenvolvimento de Sistemas',
-      company: 'SENAI',
-      period: '2025 — Atual',
-      description:
-        'Formação com foco em lógica de programação, desenvolvimento web, banco de dados, versionamento e construção de aplicações.'
     }
   ],
 
